@@ -1,0 +1,6 @@
+{
+  "name": "English for Personal Trainers",
+  "description": "Practical English learning prototype for Vietnamese personal trainers and fitness staff communicating with international gym clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
